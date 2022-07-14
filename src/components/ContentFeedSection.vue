@@ -1,51 +1,71 @@
-<script setup lang="ts">
+<script lang="ts">
+import { defineComponent } from "vue";
 import { CheckIcon } from "@heroicons/vue/solid";
+import type PopularTitles from "./models/movies";
+
 const eventTypes = {
   neutral: { icon: CheckIcon, bgColorClass: "bg-gray-400" },
   active: { icon: CheckIcon, bgColorClass: "bg-gray-400 bg-green-500" },
 };
-const timeline = [
-  {
-    id: 1,
-    type: eventTypes.active,
-    content: "Applied to",
-    target: "Front End Developer",
-    date: "Sep 20",
-    datetime: "2020-09-20",
+
+export default defineComponent({
+  props: {
+    popularTitles: Array<PopularTitles>,
   },
-  {
-    id: 2,
-    type: eventTypes.neutral,
-    content: "Advanced to phone screening by",
-    target: "Bethany Blake",
-    date: "Sep 22",
-    datetime: "2020-09-22",
+  data() {
+    return {
+      eventTypes: {
+        neutral: { icon: CheckIcon, bgColorClass: "bg-gray-400" },
+        active: { icon: CheckIcon, bgColorClass: "bg-gray-400 bg-green-500" },
+      },
+      timeline: [
+        {
+          id: 1,
+          type: eventTypes.active,
+          content: "Applied to",
+          target: "Front End Developer",
+          date: "Sep 20",
+          datetime: "2020-09-20",
+        },
+        {
+          id: 2,
+          type: eventTypes.neutral,
+          content: "Advanced to phone screening by",
+          target: "Bethany Blake",
+          date: "Sep 22",
+          datetime: "2020-09-22",
+        },
+        {
+          id: 3,
+          type: eventTypes.neutral,
+          content: "Completed phone screening with",
+          target: "Martha Gardner",
+          date: "Sep 28",
+          datetime: "2020-09-28",
+        },
+        {
+          id: 4,
+          type: eventTypes.neutral,
+          content: "Advanced to interview by",
+          target: "Bethany Blake",
+          date: "Sep 30",
+          datetime: "2020-09-30",
+        },
+        {
+          id: 5,
+          type: eventTypes.neutral,
+          content: "Completed interview with",
+          target: "Katherine Snyder",
+          date: "Oct 4",
+          datetime: "2020-10-04",
+        },
+      ],
+    };
   },
-  {
-    id: 3,
-    type: eventTypes.neutral,
-    content: "Completed phone screening with",
-    target: "Martha Gardner",
-    date: "Sep 28",
-    datetime: "2020-09-28",
+  setup(props) {
+    props.popularTitles;
   },
-  {
-    id: 4,
-    type: eventTypes.neutral,
-    content: "Advanced to interview by",
-    target: "Bethany Blake",
-    date: "Sep 30",
-    datetime: "2020-09-30",
-  },
-  {
-    id: 5,
-    type: eventTypes.neutral,
-    content: "Completed interview with",
-    target: "Katherine Snyder",
-    date: "Oct 4",
-    datetime: "2020-10-04",
-  },
-];
+});
 </script>
 
 <template>
@@ -57,7 +77,7 @@ const timeline = [
     <!-- Activity Feed -->
     <div class="mt-6 flow-root">
       <ul role="list" class="-mb-8">
-        <li v-for="(item, itemIdx) in timeline" :key="item.id">
+        <li v-for="(item, itemIdx) in popularTitles" :key="item.id">
           <div class="relative pb-8">
             <span
               v-if="itemIdx !== timeline.length - 1"
@@ -68,12 +88,12 @@ const timeline = [
               <div>
                 <span
                   :class="[
-                    item.type.bgColorClass,
+                    eventTypes.neutral.bgColorClass,
                     'h-8 w-8 rounded-full flex items-center justify-center ring-8 ring-white',
                   ]"
                 >
                   <component
-                    :is="item.type.icon"
+                    :is="eventTypes.neutral.icon"
                     class="w-5 h-5 text-white"
                     aria-hidden="true"
                   />
@@ -82,14 +102,14 @@ const timeline = [
               <div class="min-w-0 flex-1 pt-1.5 flex justify-between space-x-4">
                 <div>
                   <p class="text-sm text-gray-500">
-                    {{ item.content }}
+                    {{ item.originalTitleText?.text }}
                     <a href="#" class="font-medium text-gray-900">{{
-                      item.target
+                      item.ratingsSummary?.aggregateRating
                     }}</a>
                   </p>
                 </div>
                 <div class="text-right text-sm whitespace-nowrap text-gray-500">
-                  <time :datetime="item.datetime">{{ item.date }}</time>
+                  <span>{{ item.releaseYear?.year }}</span>
                 </div>
               </div>
             </div>

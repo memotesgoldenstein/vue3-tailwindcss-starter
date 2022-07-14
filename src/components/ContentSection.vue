@@ -1,5 +1,32 @@
-<script setup lang="ts">
-import ContentFeedSectionVue from "./ContentFeedSection.vue";
+<script lang="ts">
+import axios from "axios";
+import { defineComponent } from "vue";
+import ContentFeedSection from "./ContentFeedSection.vue";
+import type ResponseHTTP from "./models/response";
+
+export default defineComponent({
+  data() {
+    return {
+      baseUrl: "http://localhost:3000",
+      filterUrl: "/data",
+      popularTitles: [],
+    };
+  },
+  created() {
+    this.fetchData(this.baseUrl, this.filterUrl);
+  },
+  methods: {
+    getPopularTitles() {
+      return this.popularTitles;
+    },
+    async fetchData(baseUrl: string, filterUrl: string) {
+      axios.get(`${baseUrl}${filterUrl}`).then((response: ResponseHTTP) => {
+        this.popularTitles = response.data.popularTitles.titles;
+      });
+    },
+  },
+  components: { ContentFeedSection },
+});
 </script>
 <template>
   <div
@@ -109,7 +136,7 @@ import ContentFeedSectionVue from "./ContentFeedSection.vue";
       aria-labelledby="timeline-title"
       class="lg:col-start-3 lg:col-span-1"
     >
-      <ContentFeedSectionVue></ContentFeedSectionVue>
+      <ContentFeedSection :popular-titles="popularTitles"></ContentFeedSection>
     </section>
   </div>
 </template>

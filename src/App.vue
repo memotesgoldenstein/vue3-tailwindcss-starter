@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { RouterView } from "vue-router";
+import NavigationList from "@/components/NavigationList.vue";
 import {
   Disclosure,
   DisclosureButton,
@@ -9,11 +9,10 @@ import {
   MenuItem,
   MenuItems,
 } from "@headlessui/vue";
-import { SearchIcon, ClockIcon } from "@heroicons/vue/solid";
 import { BellIcon, MenuIcon, XIcon } from "@heroicons/vue/outline";
-import NavigationList from "@/components/NavigationList.vue";
+import { ClockIcon, SearchIcon } from "@heroicons/vue/solid";
+import { RouterView } from "vue-router";
 import NavigationListMobile from "./components/NavigationListMobile.vue";
-import FlyOutMenu from "./components/FlyOutMenu.vue";
 
 const user = {
   name: "Tom Cook",

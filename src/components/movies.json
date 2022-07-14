@@ -1,0 +1,3815 @@
+{
+  "errors": [
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[0]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 0, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 0, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[1]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 1, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 1, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[2]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 2, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 2, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[3]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 3, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 3, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[4]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 4, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 4, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[5]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 5, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 5, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[6]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 6, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 6, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[7]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 7, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 7, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[8]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 8, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 8, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[9]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 9, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 9, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[10]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 10, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 10, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[11]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 11, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 11, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[12]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 12, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 12, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[13]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 13, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 13, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[14]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 14, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 14, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[15]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 15, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 15, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[16]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 16, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 16, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[17]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 17, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 17, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[18]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 18, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 18, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[19]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 19, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 19, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[20]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 20, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 20, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[21]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 21, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 21, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[22]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 22, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 22, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[23]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 23, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 23, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[24]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 24, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 24, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[25]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 25, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 25, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[26]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 26, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 26, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[27]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 27, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 27, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[28]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 28, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 28, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[29]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 29, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 29, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[30]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 30, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 30, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[31]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 31, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 31, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[32]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 32, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 32, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[33]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 33, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 33, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[34]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 34, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 34, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[35]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 35, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 35, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[36]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 36, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 36, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[37]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 37, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 37, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[38]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 38, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 38, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[39]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 39, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 39, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[40]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 40, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 40, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[41]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 41, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 41, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[42]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 42, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 42, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[43]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 43, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 43, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[44]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 44, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 44, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[45]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 45, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 45, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[46]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 46, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 46, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    },
+    {
+      "message": "FORBIDDEN exception code while fetching data (/_entities[47]/userRating) : Authentication required but not provided",
+      "path": ["_entities", 47, "userRating"],
+      "extensions": {
+        "errorType": "CLIENT",
+        "isRetryable": false,
+        "path": ["_entities", 47, "userRating"],
+        "code": "FORBIDDEN"
+      }
+    }
+  ],
+  "data": {
+    "popularTitles": {
+      "titles": [
+        {
+          "id": "tt4574334",
+          "titleText": {
+            "text": "Stranger Things",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Stranger Things",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2662099456",
+            "width": 1259,
+            "height": 1786,
+            "url": "https://m.media-amazon.com/images/M/MV5BNWZmYzVjZjktNzQ4ZC00MDUwLTkzYTktNzMxMzViZjBlNDk4XkEyXkFqcGdeQXVyODExNTExMTM@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2016,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.7,
+            "voteCount": 1085575,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3060,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "16+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Fantasy",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Horror",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi3269313049",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt10648342",
+          "titleText": {
+            "text": "Thor: Love and Thunder",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Thor: Love and Thunder",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1748177921",
+            "width": 840,
+            "height": 1200,
+            "url": "https://m.media-amazon.com/images/M/MV5BYmQ3MWUzMjItOTEwZS00NWIyLThjY2EtMGM4OWI5Njc2NmFlXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "voteCount": 83063,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 7080,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "13+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi1613808153",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt1190634",
+          "titleText": {
+            "text": "The Boys",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Boys",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3327858177",
+            "width": 1080,
+            "height": 1350,
+            "url": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2019,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.7,
+            "voteCount": 413325,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi2358034969",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": {
+            "additionalWatchOptionsCount": 0,
+            "__typename": "PrimaryWatchOption"
+          },
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt11743610",
+          "titleText": {
+            "text": "The Terminal List",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Terminal List",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm426055169",
+            "width": 1080,
+            "height": 1350,
+            "url": "https://m.media-amazon.com/images/M/MV5BNmNkYmZjZDMtNjVmZC00OWVkLWI1MzEtYjI0ZDc2MjExYWY2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.2,
+            "voteCount": 29615,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3300,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1238286873",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": {
+            "additionalWatchOptionsCount": 0,
+            "__typename": "PrimaryWatchOption"
+          },
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt1312171",
+          "titleText": {
+            "text": "The Umbrella Academy",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Umbrella Academy",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2581140737",
+            "width": 1200,
+            "height": 1500,
+            "url": "https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2019,
+            "endYear": 2022,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "voteCount": 224725,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "16+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi468828697",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt3704428",
+          "titleText": {
+            "text": "Elvis",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Elvis",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm840044545",
+            "width": 840,
+            "height": 1200,
+            "url": "https://m.media-amazon.com/images/M/MV5BMjQwYjE5MmEtMmJlOS00OTAyLTkwZDItYzVlYWU4ZjNjNWVhXkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.8,
+            "voteCount": 36777,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 9540,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "13+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Biography",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Music",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi4207002137",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt1745960",
+          "titleText": {
+            "text": "Top Gun: Maverick",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Top Gun: Maverick",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3748336385",
+            "width": 840,
+            "height": 1200,
+            "url": "https://m.media-amazon.com/images/M/MV5BMjNiMDA0OWQtZGY1MC00N2EwLTkxNDYtYmVkNTk1NzJiZjFmXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.6,
+            "voteCount": 227503,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 7800,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "10+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi2578694681",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt5113044",
+          "titleText": {
+            "text": "Minions: The Rise of Gru",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Minions: The Rise of Gru",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3179419393",
+            "width": 839,
+            "height": 1200,
+            "url": "https://m.media-amazon.com/images/M/MV5BOTI1Y2VlY2YtNjhjZS00NTMzLWI5Y2EtY2E1NjViOTEwOWQ2XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7,
+            "voteCount": 16997,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 5220,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "6+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Animation",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi837599769",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0475784",
+          "titleText": {
+            "text": "Westworld",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Westworld",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm4025685505",
+            "width": 864,
+            "height": 1280,
+            "url": "https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2016,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.6,
+            "voteCount": 483799,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3720,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-MA",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Mystery",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Sci-Fi",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1356317209",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt5645432",
+          "titleText": {
+            "text": "The Old Man",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Old Man",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2320635649",
+            "width": 425,
+            "height": 755,
+            "url": "https://m.media-amazon.com/images/M/MV5BYzBlZWU5ZjAtNjgzNC00NWE3LTkyNTUtNjIyY2JiYWNhNWNkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.4,
+            "voteCount": 9655,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3660,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-MA",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi3133456921",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt9419884",
+          "titleText": {
+            "text": "Doctor Strange in the Multiverse of Madness",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Doctor Strange in the Multiverse of Madness",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm316674561",
+            "width": 770,
+            "height": 1100,
+            "url": "https://m.media-amazon.com/images/M/MV5BOWQxY2M3OTctNTE2OS00MTg2LWIyOGQtMzJmMjUwMGZiNzU0XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "voteCount": 301392,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 7560,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "13+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Fantasy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi1050657305",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt12851524",
+          "titleText": {
+            "text": "Only Murders in the Building",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Only Murders in the Building",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3076984833",
+            "width": 1080,
+            "height": 1350,
+            "url": "https://m.media-amazon.com/images/M/MV5BZTFmZWUwZmEtYzc4Ni00N2FmLTk1MmMtZmMyODYwZTNkY2EwXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.1,
+            "voteCount": 74574,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 1800,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-MA",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1389609497",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt14452776",
+          "titleText": {
+            "text": "The Bear",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Bear",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm894572033",
+            "width": 1080,
+            "height": 1350,
+            "url": "https://m.media-amazon.com/images/M/MV5BMmZmMjgyOTUtZjljMS00NjhlLTkzMmItM2EyMzY5NzU0NzFiXkEyXkFqcGdeQXVyNjIzMTEyNDk@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.5,
+            "voteCount": 9662,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 1800,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-MA",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1479787033",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt3032476",
+          "titleText": {
+            "text": "Better Call Saul",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Better Call Saul",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3582663425",
+            "width": 3240,
+            "height": 4800,
+            "url": "https://m.media-amazon.com/images/M/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2015,
+            "endYear": 2022,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.8,
+            "voteCount": 431035,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2760,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi3484795417",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt7144666",
+          "titleText": {
+            "text": "The Black Phone",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Black Phone",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1575480577",
+            "width": 933,
+            "height": 1659,
+            "url": "https://m.media-amazon.com/images/M/MV5BOWVmNTBiYTUtZWQ3Yi00ZDlhLTgyYjUtNzBhZjM3YjRiNGRkXkEyXkFqcGdeQXVyNzYyOTM1ODI@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.3,
+            "voteCount": 25940,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 6180,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "16+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Horror",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi601801241",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt8041270",
+          "titleText": {
+            "text": "Jurassic World Dominion",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Jurassic World Dominion",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2381715201",
+            "width": 700,
+            "height": 1005,
+            "url": "https://m.media-amazon.com/images/M/MV5BMTYzMDgwMTUtYjQzMC00MDczLWIyOTAtMGUwMzQ2OGU2ZGRkXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 5.8,
+            "voteCount": 78743,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 8820,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "13+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Sci-Fi",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi2962735641",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt6467266",
+          "titleText": {
+            "text": "Sing 2",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Sing 2",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3770805761",
+            "width": 3158,
+            "height": 5000,
+            "url": "https://m.media-amazon.com/images/M/MV5BMWRiZGQ1NDMtODQ2OS00MDlhLWJkZGYtM2ZmNjlhZThjOWRmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "voteCount": 56244,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 6600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "G",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Animation",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi525386521",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt2442560",
+          "titleText": {
+            "text": "Peaky Blinders",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Peaky Blinders",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1762595584",
+            "width": 736,
+            "height": 1078,
+            "url": "https://m.media-amazon.com/images/M/MV5BNjIwZmJhOWEtNGMyOC00MTRiLWE0MmYtOTNlZDJjNzNjNTg5XkEyXkFqcGdeQXVyMTgxOTIzNzk@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2013,
+            "endYear": 2022,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.8,
+            "voteCount": 507438,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi3863855897",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt13406136",
+          "titleText": {
+            "text": "The Princess",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Princess",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1194201345",
+            "width": 2025,
+            "height": 3000,
+            "url": "https://m.media-amazon.com/images/M/MV5BOGYyZjhkYTgtYzNlNC00NWEwLWEwMmQtZWI5Y2Y4OTk5Y2YwXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 5.5,
+            "voteCount": 5898,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 5640,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "R",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Fantasy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi3102065177",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0944947",
+          "titleText": {
+            "text": "Game of Thrones",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Game of Thrones",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm4204167425",
+            "width": 1102,
+            "height": 1500,
+            "url": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2011,
+            "endYear": 2019,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 9.2,
+            "voteCount": 2007914,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3420,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi59490329",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt12327578",
+          "titleText": {
+            "text": "Star Trek: Strange New Worlds",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Star Trek: Strange New Worlds",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm596647425",
+            "width": 740,
+            "height": 1096,
+            "url": "https://m.media-amazon.com/images/M/MV5BYWNlYmZkZjQtNjU5OS00YTNkLWJmOTEtYmZiMmUwZGI3NTM3XkEyXkFqcGdeQXVyMTM2NTIwMDIw._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.2,
+            "voteCount": 19516,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3120,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "7+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Sci-Fi",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1451672089",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0092099",
+          "titleText": {
+            "text": "Top Gun",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Top Gun",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm885920769",
+            "width": 2000,
+            "height": 3000,
+            "url": "https://m.media-amazon.com/images/M/MV5BY2NlZjQ3ZTAtMzcxZC00MGZhLWFhNTQtN2M4NDBjYzIyOWNlXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 1986,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "voteCount": 390535,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 6600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "16+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi2414526233",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt14016500",
+          "titleText": {
+            "text": "The Summer I Turned Pretty",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Summer I Turned Pretty",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3350797569",
+            "width": 1080,
+            "height": 1920,
+            "url": "https://m.media-amazon.com/images/M/MV5BYzQyN2MxNDgtMzA1OC00NmFmLWFkYTktNGFhMjdhYWZjMDM5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.5,
+            "voteCount": 10052,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2700,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "16+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Romance",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi2848244249",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": {
+            "additionalWatchOptionsCount": 0,
+            "__typename": "PrimaryWatchOption"
+          },
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt6710474",
+          "titleText": {
+            "text": "Everything Everywhere All at Once",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Everything Everywhere All at Once",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2635864833",
+            "width": 470,
+            "height": 672,
+            "url": "https://m.media-amazon.com/images/M/MV5BNjBhNjk0MzMtOWRhMy00N2FkLTllZjgtMTBiYTI1YmZhNTFjXkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.2,
+            "voteCount": 145529,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 8340,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "13+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi1708573209",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt4236770",
+          "titleText": {
+            "text": "Yellowstone",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Yellowstone",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm908442881",
+            "width": 709,
+            "height": 961,
+            "url": "https://m.media-amazon.com/images/M/MV5BZjhkNWM1NTQtODI4NS00NzllLTg1ODAtYjg3N2QxZjc3ZjRiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2018,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.7,
+            "voteCount": 117962,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "7+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Western",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi2447426329",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt11671006",
+          "titleText": {
+            "text": "The Man from Toronto",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Man from Toronto",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1895241473",
+            "width": 450,
+            "height": 630,
+            "url": "https://m.media-amazon.com/images/M/MV5BYzZlNjcwODgtMDI0Ni00MzgzLTkzZGQtNzM3MDJlNzUwNjdlXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 5.8,
+            "voteCount": 25439,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 6600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "13+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi467845657",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt4301160",
+          "titleText": {
+            "text": "Black Bird",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Black Bird",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm4185528065",
+            "width": 2000,
+            "height": 3000,
+            "url": "https://m.media-amazon.com/images/M/MV5BZjI3NjcyN2UtMGNhZC00YTYxLWJmOTQtNWI1ZGJmNjA4ZjY5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": 2022,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.3,
+            "voteCount": 1593,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-MA",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi675004953",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt8115900",
+          "titleText": {
+            "text": "The Bad Guys",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Bad Guys",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm241363969",
+            "width": 3158,
+            "height": 5000,
+            "url": "https://m.media-amazon.com/images/M/MV5BMDhkYmU0MzctMWEzNy00ODg1LWI3ZjAtMGZlZjkzNWVmMzVjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 6.9,
+            "voteCount": 25994,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 6000,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "6A",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Animation",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi2229649945",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt5691552",
+          "titleText": {
+            "text": "The Orville",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Orville",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2592784641",
+            "width": 2000,
+            "height": 3000,
+            "url": "https://m.media-amazon.com/images/M/MV5BMzBkZGM1OTQtYmIyNi00ZjM4LWJlNGItNGM0ZWVhODU3YWVlXkEyXkFqcGdeQXVyNzY3NzAzOTA@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2017,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "voteCount": 75441,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2640,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-14",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1304543769",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0903747",
+          "titleText": {
+            "text": "Breaking Bad",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Breaking Bad",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1922833665",
+            "width": 1012,
+            "height": 1518,
+            "url": "https://m.media-amazon.com/images/M/MV5BODFhZjAwNjEtZDFjNi00ZTEyLThkNzUtMjZmOWM2YjQwODFmXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2008,
+            "endYear": 2013,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 9.5,
+            "voteCount": 1766696,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2940,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi564706585",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0116629",
+          "titleText": {
+            "text": "Independence Day",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Independence Day",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2203522816",
+            "width": 768,
+            "height": 1152,
+            "url": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 1996,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7,
+            "voteCount": 567682,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 8700,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "7+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Sci-Fi",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi2181957401",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0068646",
+          "titleText": {
+            "text": "The Godfather",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Godfather",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm632580096",
+            "width": 500,
+            "height": 746,
+            "url": "https://m.media-amazon.com/images/M/MV5BNjFiZjQ4ZTktMDllYS00M2UxLWJkY2MtOTk3NGZjZTg2MTlhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 1972,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 9.2,
+            "voteCount": 1804831,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 10500,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi1629995801",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt8009428",
+          "titleText": {
+            "text": "Hustle",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Hustle",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2921468417",
+            "width": 450,
+            "height": 630,
+            "url": "https://m.media-amazon.com/images/M/MV5BMDNiNjliMzItZTMxYy00MjEwLWJiZjUtNTg1NjMxZDZiMTg3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.4,
+            "voteCount": 81780,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 7020,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "16+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Sport",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi1032176153",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt9639470",
+          "titleText": {
+            "text": "Last Night in Soho",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Last Night in Soho",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1870193409",
+            "width": 810,
+            "height": 1200,
+            "url": "https://m.media-amazon.com/images/M/MV5BOWZjZjRjYTAtNWFhOC00MzM1LWJkNDctN2UwNzg0NDg0MWU0XkEyXkFqcGdeQXVyOTYwOTM5NDg@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2021,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "voteCount": 114362,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 6960,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "16+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Horror",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Mystery",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi63750937",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt9783600",
+          "titleText": {
+            "text": "Spiderhead",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Spiderhead",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1104418305",
+            "width": 450,
+            "height": 630,
+            "url": "https://m.media-amazon.com/images/M/MV5BZWJhYzRjYjEtMWU1Zi00YmU4LTk2ZGQtYzE2YjJlOTI2ZDFmXkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 5.4,
+            "voteCount": 38909,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 6360,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi646890009",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt10298810",
+          "titleText": {
+            "text": "Lightyear",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Lightyear",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2690389761",
+            "width": 840,
+            "height": 1200,
+            "url": "https://m.media-amazon.com/images/M/MV5BNDQ0ZDFkZGUtNjUwYS00NThmLTliMzEtN2UzZmM3MGIyYWY5XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 5.3,
+            "voteCount": 44216,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 6000,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "PG",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Animation",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi445694489",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt1520211",
+          "titleText": {
+            "text": "The Walking Dead",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Walking Dead",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2446196481",
+            "width": 3986,
+            "height": 6000,
+            "url": "https://m.media-amazon.com/images/M/MV5BZmU5NTcwNjktODIwMi00ZmZkLTk4ZWUtYzVjZWQ5ZTZjN2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2010,
+            "endYear": 2022,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.2,
+            "voteCount": 954556,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2640,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Horror",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1612366617",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt9263550",
+          "titleText": {
+            "text": "Rocketry: The Nambi Effect",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Rocketry: The Nambi Effect",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3143700737",
+            "width": 1082,
+            "height": 1600,
+            "url": "https://m.media-amazon.com/images/M/MV5BNzBkMTYwYjktMzFlZS00MmNhLTgxNjYtNGEwYjUxYTBlNjM5XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 9.3,
+            "voteCount": 13376,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 9420,
+            "__typename": "Runtime"
+          },
+          "certificate": null,
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Biography",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi3653812761",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt1877830",
+          "titleText": {
+            "text": "The Batman",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Batman",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3520128001",
+            "width": 729,
+            "height": 1080,
+            "url": "https://m.media-amazon.com/images/M/MV5BZjlmYjY0MTEtYjNmOC00OWQ5LWEyMGEtYzYxYTc2MjI4MTVjXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.9,
+            "voteCount": 539679,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 10560,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "13+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi3215114777",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0413573",
+          "titleText": {
+            "text": "Grey's Anatomy",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Grey's Anatomy",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2855858177",
+            "width": 2700,
+            "height": 4000,
+            "url": "https://m.media-amazon.com/images/M/MV5BODA2Mjk0N2MtNGY0Mi00ZWFjLTkxODEtZDFjNDg4ZDliMGVmXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2005,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.6,
+            "voteCount": 298258,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2460,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "16+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Romance",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi3052649497",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0386676",
+          "titleText": {
+            "text": "The Office",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Office",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2849806081",
+            "width": 1280,
+            "height": 1922,
+            "url": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2005,
+            "endYear": 2013,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 9,
+            "voteCount": 557319,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 1320,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "13+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Comedy",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi2304687129",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": {
+            "additionalWatchOptionsCount": 0,
+            "__typename": "PrimaryWatchOption"
+          },
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt15017118",
+          "titleText": {
+            "text": "Dark Winds",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Dark Winds",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3030260737",
+            "width": 600,
+            "height": 889,
+            "url": "https://m.media-amazon.com/images/M/MV5BZDJjMTczZjItZGIyNi00OWY5LTljMTgtZWM0NDkxYzgyYWIzXkEyXkFqcGdeQXVyMTUyMjM1Mjg4._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8,
+            "voteCount": 2885,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2940,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-MA",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1254343193",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt0460681",
+          "titleText": {
+            "text": "Supernatural",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Supernatural",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1487774977",
+            "width": 1001,
+            "height": 1500,
+            "url": "https://m.media-amazon.com/images/M/MV5BNzRmZWJhNjUtY2ZkYy00N2MyLWJmNTktOTAwY2VkODVmOGY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2005,
+            "endYear": 2020,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.4,
+            "voteCount": 433017,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2640,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-14",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Fantasy",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Horror",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi3786522905",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt11138512",
+          "titleText": {
+            "text": "The Northman",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "movie",
+            "text": "Movie",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "The Northman",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm2631081729",
+            "width": 810,
+            "height": 1200,
+            "url": "https://m.media-amazon.com/images/M/MV5BNTI2YTJiN2UtYjU1Mi00NmRlLTk2NmMtNjVlY2QwYmQxOTEzXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.2,
+            "voteCount": 139875,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 8220,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Action",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Adventure",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": false,
+          "latestTrailer": {
+            "id": "vi2246427161",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt5071412",
+          "titleText": {
+            "text": "Ozark",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Ozark",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm927209729",
+            "width": 1013,
+            "height": 1500,
+            "url": "https://m.media-amazon.com/images/M/MV5BZDUxMWNlMTUtYTljZS00MTE0LTlkYjktOTU1ODZjYzBhMTk0XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2017,
+            "endYear": 2022,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.5,
+            "voteCount": 298156,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "18+",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Crime",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Thriller",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi1303560729",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt7772588",
+          "titleText": {
+            "text": "For All Mankind",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "For All Mankind",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm1695355649",
+            "width": 1280,
+            "height": 1920,
+            "url": "https://m.media-amazon.com/images/M/MV5BMDI3ZGQ1OGItNGM5Yy00ZDBhLTg2ZDYtYWNkNTU4MDNmZjU2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2019,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.9,
+            "voteCount": 34533,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3600,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-MA",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Sci-Fi",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi384221721",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt8421350",
+          "titleText": {
+            "text": "Manifest",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Manifest",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm3482832385",
+            "width": 1240,
+            "height": 1652,
+            "url": "https://m.media-amazon.com/images/M/MV5BMmM1OWIyODItZWNmMC00MzJmLThiNDktNjExMGFlMTcyYWI5XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2018,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 7.1,
+            "voteCount": 51776,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 2580,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-14",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Mystery",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Sci-Fi",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi3072901145",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        },
+        {
+          "id": "tt11280740",
+          "titleText": {
+            "text": "Severance",
+            "__typename": "TitleText"
+          },
+          "titleType": {
+            "id": "tvSeries",
+            "text": "TV Series",
+            "__typename": "TitleType"
+          },
+          "originalTitleText": {
+            "text": "Severance",
+            "__typename": "TitleText"
+          },
+          "primaryImage": {
+            "id": "rm4265796609",
+            "width": 675,
+            "height": 1000,
+            "url": "https://m.media-amazon.com/images/M/MV5BOThjMjc4NDUtNmIyOC00MzhmLWIxNjQtMDlkOTlmNzA0NDJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+            "__typename": "Image"
+          },
+          "releaseYear": {
+            "year": 2022,
+            "endYear": null,
+            "__typename": "YearRange"
+          },
+          "ratingsSummary": {
+            "aggregateRating": 8.7,
+            "voteCount": 74587,
+            "__typename": "RatingsSummary"
+          },
+          "runtime": {
+            "seconds": 3300,
+            "__typename": "Runtime"
+          },
+          "certificate": {
+            "rating": "TV-MA",
+            "__typename": "Certificate"
+          },
+          "canRate": {
+            "isRatable": true,
+            "__typename": "CanRate"
+          },
+          "titleCardGenres": {
+            "genres": [
+              {
+                "text": "Drama",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Mystery",
+                "__typename": "Genre"
+              },
+              {
+                "text": "Sci-Fi",
+                "__typename": "Genre"
+              }
+            ],
+            "__typename": "Genres"
+          },
+          "canHaveEpisodes": true,
+          "latestTrailer": {
+            "id": "vi3613770521",
+            "__typename": "Video"
+          },
+          "primaryWatchOption": null,
+          "userRating": null,
+          "__typename": "Title"
+        }
+      ],
+      "paginationToken": "eyJlc1Rva2VuIjpbIjU1Il0sImZpbHRlciI6IntcInJlbGVhc2VEYXRlUmFuZ2VcIjp7XCJlbmRcIjpcIjIwMjItMDctMTNcIn19In0=",
+      "__typename": "PaginatedTitles"
+    }
+  },
+  "extensions": {
+    "disclaimer": "Public, commercial, and/or non-private use of the IMDb data provided by this API is not allowed. For limited non-commercial use of IMDb data and the associated requirements see https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX#",
+    "experimentalFields": {
+      "search": [],
+      "watch": [],
+      "video": [],
+      "ratings": [],
+      "janet": []
+    }
+  }
+}

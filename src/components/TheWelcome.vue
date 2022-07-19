@@ -1,91 +1,85 @@
-<script setup lang="ts">
-import WelcomeItem from "./WelcomeItem.vue";
-import DocumentationIcon from "./icons/IconDocumentation.vue";
-import ToolingIcon from "./icons/IconTooling.vue";
-import EcosystemIcon from "./icons/IconEcosystem.vue";
-import CommunityIcon from "./icons/IconCommunity.vue";
-import SupportIcon from "./icons/IconSupport.vue";
-</script>
-
 <template>
-  <WelcomeItem>
-    <template #icon>
-      <DocumentationIcon />
-    </template>
-    <template #heading>Documentation</template>
-
-    Vue’s
-    <a target="_blank" href="https://vuejs.org/">official documentation</a>
-    provides you with all information you need to get started.
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      <ToolingIcon />
-    </template>
-    <template #heading>Tooling</template>
-
-    This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank">Vite</a>.
-    The recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank">Volar</a>.
-    If you need to test your components and web pages, check out
-    <a href="https://www.cypress.io/" target="_blank">Cypress</a> and
-    <a href="https://on.cypress.io/component" target="_blank"
-      >Cypress Component Testing</a
-    >.
-
-    <br />
-
-    More instructions are available in <code>README.md</code>.
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      <EcosystemIcon />
-    </template>
-    <template #heading>Ecosystem</template>
-
-    Get official tools and libraries for your project:
-    <a target="_blank" href="https://pinia.vuejs.org/">Pinia</a>,
-    <a target="_blank" href="https://router.vuejs.org/">Vue Router</a>,
-    <a target="_blank" href="https://test-utils.vuejs.org/">Vue Test Utils</a>,
-    and
-    <a target="_blank" href="https://github.com/vuejs/devtools">Vue Dev Tools</a
-    >. If you need more resources, we suggest paying
-    <a target="_blank" href="https://github.com/vuejs/awesome-vue"
-      >Awesome Vue</a
+  <div
+    class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8"
+  >
+    <ul
+      role="list"
+      class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3"
     >
-    a visit.
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      <CommunityIcon />
-    </template>
-    <template #heading>Community</template>
-
-    Got stuck? Ask your question on
-    <a target="_blank" href="https://chat.vuejs.org">Vue Land</a>, our official
-    Discord server, or
-    <a target="_blank" href="https://stackoverflow.com/questions/tagged/vue.js"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a target="_blank" href="https://news.vuejs.org">our mailing list</a> and
-    follow the official
-    <a target="_blank" href="https://twitter.com/vuejs">@vuejs</a>
-    twitter account for latest news in the Vue world.
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      <SupportIcon />
-    </template>
-    <template #heading>Support Vue</template>
-
-    As an independent project, Vue relies on community backing for its
-    sustainability. You can help us by
-    <a target="_blank" href="https://vuejs.org/sponsor/">becoming a sponsor</a>.
-  </WelcomeItem>
+      <li
+        v-for="person in people"
+        :key="person.email"
+        class="col-span-1 bg-white rounded-lg shadow divide-y divide-gray-200"
+      >
+        <div class="w-full flex items-center justify-between p-6 space-x-6">
+          <div class="flex-1 truncate">
+            <div class="flex items-center space-x-3">
+              <h3 class="text-gray-900 text-sm font-medium truncate">
+                {{ person.name }}
+              </h3>
+              <span
+                class="flex-shrink-0 inline-block px-2 py-0.5 text-green-800 text-xs font-medium bg-green-100 rounded-full"
+                >{{ person.role }}</span
+              >
+            </div>
+            <p class="mt-1 text-gray-500 text-sm truncate">
+              {{ person.title }}
+            </p>
+          </div>
+          <img
+            class="w-10 h-10 bg-gray-300 rounded-full flex-shrink-0"
+            :src="person.imageUrl"
+            alt=""
+          />
+        </div>
+        <div>
+          <div class="-mt-px flex divide-x divide-gray-200">
+            <div class="w-0 flex-1 flex">
+              <a
+                :href="`mailto:${person.email}`"
+                class="relative -mr-px w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-bl-lg hover:text-gray-500"
+              >
+                <MailIcon class="w-5 h-5 text-gray-400" aria-hidden="true" />
+                <span class="ml-3">Email</span>
+              </a>
+            </div>
+            <div class="-ml-px w-0 flex-1 flex">
+              <a
+                :href="`tel:${person.telephone}`"
+                class="relative w-0 flex-1 inline-flex items-center justify-center py-4 text-sm text-gray-700 font-medium border border-transparent rounded-br-lg hover:text-gray-500"
+              >
+                <PhoneIcon class="w-5 h-5 text-gray-400" aria-hidden="true" />
+                <span class="ml-3">Call</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
 </template>
+
+<script setup>
+import { MailIcon, PhoneIcon } from "@heroicons/vue/solid";
+
+const people = [
+  {
+    name: "Jane Cooper",
+    title: "Regional Paradigm Technician",
+    role: "Admin",
+    email: "janecooper@example.com",
+    telephone: "+1-202-555-0170",
+    imageUrl:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+  },
+  {
+    name: "Jane Cooper",
+    title: "Regional Paradigm Technician",
+    role: "Admin",
+    email: "janecooper@example.com",
+    telephone: "+1-202-555-0170",
+    imageUrl:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+  },
+];
+</script>

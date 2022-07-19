@@ -3,6 +3,10 @@ import axios from "axios";
 import { defineComponent } from "vue";
 import ContentFeedSection from "./ContentFeedSection.vue";
 import type ResponseHTTP from "./models/response";
+import type { Post } from "./models/post";
+
+const API_URL = "https://graphql.datocms.com/";
+const API_TOKEN = "GO_GET_AN_API_TOKEN";
 
 export default defineComponent({
   data() {
@@ -10,10 +14,12 @@ export default defineComponent({
       baseUrl: "http://localhost:3000",
       filterUrl: "/data",
       popularTitles: [],
+      posts: [] as Post[],
     };
   },
   created() {
-    this.fetchData(this.baseUrl, this.filterUrl);
+    //this.fetchData(this.baseUrl, this.filterUrl);
+    this.getAllPosts();
   },
   methods: {
     getPopularTitles() {
@@ -23,6 +29,54 @@ export default defineComponent({
       axios.get(`${baseUrl}${filterUrl}`).then((response: ResponseHTTP) => {
         this.popularTitles = response.data.popularTitles.titles;
       });
+    },
+    async getAllPosts() {
+      const res = await this.fetchCmsAPI(`
+    {
+        allPosts(first: 100) {
+          id
+          title
+          author {
+            name
+            href
+            image {
+              url(imgixParams: {w: 256, h: 256, fm: webp, fit: crop})
+            }
+          }
+          category {
+            name
+            href
+          }
+          datetime
+          date
+          description
+          href
+          image {
+            url(imgixParams: {h:427 , w:640 , fm: webp, fit: crop})
+          }
+        }
+      }
+     `);
+      this.posts = res.data.data.allPosts;
+    },
+    async fetchCmsAPI(
+      query: string,
+      { variables }: { variables?: Record<string, any> } = {}
+    ) {
+      const res = await axios.post(
+        API_URL,
+        JSON.stringify({
+          query,
+          variables,
+        }),
+        {
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${API_TOKEN}`,
+          },
+        }
+      );
+      return res;
     },
   },
   components: { ContentFeedSection },
@@ -136,7 +190,7 @@ export default defineComponent({
       aria-labelledby="timeline-title"
       class="lg:col-start-3 lg:col-span-1"
     >
-      <ContentFeedSection :popular-titles="popularTitles"></ContentFeedSection>
+      <ContentFeedSection :post-list="posts"></ContentFeedSection>
     </section>
   </div>
 </template>

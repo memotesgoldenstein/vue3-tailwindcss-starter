@@ -1,7 +1,7 @@
 <script lang="ts">
 import { defineComponent } from "vue";
 import { CheckIcon } from "@heroicons/vue/solid";
-import type PopularTitles from "./models/movies";
+import type { Post } from "./models/post";
 
 const eventTypes = {
   neutral: { icon: CheckIcon, bgColorClass: "bg-gray-400" },
@@ -10,7 +10,7 @@ const eventTypes = {
 
 export default defineComponent({
   props: {
-    popularTitles: Array<PopularTitles>,
+    postList: Array<Post>,
   },
   data() {
     return {
@@ -63,7 +63,7 @@ export default defineComponent({
     };
   },
   setup(props) {
-    props.popularTitles;
+    props.postList;
   },
 });
 </script>
@@ -71,59 +71,26 @@ export default defineComponent({
 <template>
   <div class="bg-white px-4 py-5 shadow sm:rounded-lg sm:px-6">
     <h2 id="timeline-title" class="text-lg font-medium text-gray-900">
-      CONTENTS
+      LATEST POSTS
     </h2>
 
     <!-- Activity Feed -->
     <div class="mt-6 flow-root">
       <ul role="list" class="-mb-8">
-        <li v-for="(item, itemIdx) in popularTitles" :key="item.id">
+        <li v-for="item in postList" :key="item.id">
           <div class="relative pb-8">
-            <span
-              v-if="itemIdx !== timeline.length - 1"
-              class="absolute top-4 left-4 -ml-px h-full w-0.5 bg-gray-200"
-              aria-hidden="true"
-            />
             <div class="relative flex space-x-3">
-              <div>
-                <span
-                  :class="[
-                    eventTypes.neutral.bgColorClass,
-                    'h-8 w-8 rounded-full flex items-center justify-center ring-8 ring-white',
-                  ]"
-                >
-                  <component
-                    :is="eventTypes.neutral.icon"
-                    class="w-5 h-5 text-white"
-                    aria-hidden="true"
-                  />
-                </span>
-              </div>
-              <div class="min-w-0 flex-1 pt-1.5 flex justify-between space-x-4">
+              <div class="min-w-0 flex-1 pt-1.5 flex-col space-x-4">
                 <div>
                   <p class="text-sm text-gray-500">
-                    {{ item.originalTitleText?.text }}
-                    <a href="#" class="font-medium text-gray-900">{{
-                      item.ratingsSummary?.aggregateRating
-                    }}</a>
+                    {{ item.title }}
                   </p>
-                </div>
-                <div class="text-right text-sm whitespace-nowrap text-gray-500">
-                  <span>{{ item.releaseYear?.year }}</span>
                 </div>
               </div>
             </div>
           </div>
         </li>
       </ul>
-    </div>
-    <div class="mt-6 flex flex-col justify-stretch">
-      <button
-        type="button"
-        class="inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
-      >
-        Advance to offer
-      </button>
     </div>
   </div>
 </template>

@@ -20,15 +20,6 @@ const user = {
   imageUrl:
     "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
 };
-const navigation = [
-  { name: "Home", href: "/", current: true },
-  { name: "About", href: "/about", current: false },
-  {
-    name: "Vue Js",
-    href: "#",
-    current: false,
-  },
-];
 
 const userNavigation = [
   { name: "Your Profile", href: "#" },
@@ -186,19 +177,3 @@ const userNavigation = [
 
   <RouterView />
 </template>
-
-<!--     <img
-      alt="Vue logo"
-      class="logo"
-      src="@/assets/logo.svg"
-      width="125"
-      height="125"
-    />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-
-      <nav>
-c
-      </nav>
-    </div> -->
